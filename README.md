@@ -1,4 +1,4 @@
-<p align="left">Hello World!!</p>
+<h3 align="center">👋 Frontend Developer & AWS Cloud Practitioner | Crafting engaging user experiences with clean code & scalable cloud solutions. Let's build something amazing together! 💻🚀</h3>
 
 ###
 

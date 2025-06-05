@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img width="12"/>
-  <img src="https://devicon-website.vercel.app/api/nestjs/plain.svg" height="40" alt="Nest.Js"></img>
+  <img src="https://devicon-website.vercel.app/api/nestjs/plain.svg" height="40" alt="Nest.Js">
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
   <img width="12"/>
@@ -17,7 +17,7 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+  <img src="https://devicon-website.vercel.app/api/amazonwebservices/original.svg" height="40" alt="AWS">
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12"/>

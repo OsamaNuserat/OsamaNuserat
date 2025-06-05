@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hey, I'm Osama Nuserat</h2>
-<h3 align="center">Backend Developer | DevOps Enthusiast | Cloud Practitioner ☁️</h3>
+<h3 align="center">Backend Developer | Cloud Practitioner ☁️</h3>
 <p align="center">I build scalable systems with Node.js, Spring Boot, and microservices — and love clean architecture, Docker, and cloud-native workflows. Let’s create something powerful together! ⚙️🚀</p>
 
 ---

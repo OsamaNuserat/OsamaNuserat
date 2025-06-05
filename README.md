@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img width="12"/>
-  <img src="https://devicon-website.vercel.app/api/nestjs/plain.svg"></img>
+  <img src="https://devicon-website.vercel.app/api/nestjs/plain.svg" height="40" alt="Nest.Js"></img>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
   <img width="12"/>
